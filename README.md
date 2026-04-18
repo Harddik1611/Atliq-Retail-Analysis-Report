@@ -652,7 +652,9 @@ The dashboard is structured across **3 pages**, directly mirroring the SQL analy
 
 ### Dashboard Preview
 
-> 📁 Open `powerbi/Retail_Sales_Analysis.pbix` in Power BI Desktop to explore the interactive dashboard.
+> 📁 Open `powerbi/Atliq_Retail_Analysis_Dashboard.pbix` in Power BI Desktop to explore the interactive dashboard.
+## 📊 Live Dashboard
+🔗 [View Live Dashboard on Novypro](https://www.novypro.com/create_project/atliq-retail-sales-analysis-))
 
 ---
 
@@ -734,11 +736,10 @@ Navigate across the 3 dashboard pages using the bottom tab bar in Power BI.
 
 ## 👤 Author
 
-**Atiq** — Retail Data Analyst
+**Harddik** — Data Analyst
 
-- 📧 [your.email@example.com](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/your-username)
+- 📧 [your.email@example.com](mailto:harddik05@gmail.com)
+- 💼 [LinkedIn](www.linkedin.com/in/hk104)
 
 ---
 
